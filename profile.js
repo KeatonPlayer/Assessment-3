@@ -12,10 +12,9 @@ colorbtn.addEventListener('click',colorbutton)
 /////////////////////////////////////////////////////////
 
 function myFavPlace(){
-    alert('My bed')
+alert('My bed')
 image.style.display='block'
 button.style.display='none'
-
 }
 let image = document.querySelector('#bed')
 let button = document.querySelector('#place')
@@ -35,4 +34,4 @@ alert('Thats an ugly face huh?')
 }
 let imagekeaton = document.querySelector('#keaton')
 imagekeaton.addEventListener('mouseover',ugly)
-
+//////////////////////////////////////////////////////////
