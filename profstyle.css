@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+}
+#keaton{
+    border-radius: 50%;
+    box-shadow: 10px 5px 5px rgb(107, 91, 91);
+
+}
+#bed{
+    display:none;
+  }
+#ritualimage{
+    display: none; 
+  }
+
+  #color{
+      background-color: yellow;
+      height: 50px;
+      
+}
+
+#place{
+    background-color: yellow;
+    height: 50px;
+}
+#ritual{
+    background-color: yellow;
+    height: 50px;
+}
